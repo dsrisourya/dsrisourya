@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on Data Science with python
+🌱 I’m currently learning DSA using C++
+👯 I’m looking to collaborate on Coding contests
+😄 Pronouns: he/him
 
 <!--
 **dsrisourya/dsrisourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
